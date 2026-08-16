@@ -4,7 +4,7 @@ A compact ESP32-based target detection and alarm system using an HC-SR04 ultraso
 
 The system continuously scans its surroundings by rotating the ultrasonic sensor with a servo. When an object enters the configured detection range, the system confirms the detection, locks the servo at the detected angle, activates visual and audible alarms, and displays the target distance and angle on the OLED. When the target disappears, the alarm is cleared and scanning resumes from the position where the target was lost.
 
-![Demo](Media/media.gif)
+![Demo](Media/Media.gif)
 
 ## Features
 

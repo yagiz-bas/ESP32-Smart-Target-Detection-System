@@ -205,7 +205,7 @@ The PCB was designed in KiCad using a complete schematic-to-PCB workflow:
 
 ### PCB Layout
 
-![PCB Layout](Images/pcb-layout.png)
+![PCB Layout](Images/Layout.png)
 
 ### 3D PCB View
 
